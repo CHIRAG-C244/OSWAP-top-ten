@@ -145,4 +145,8 @@ The OWASP Top 10 is an essential tool for identifying and mitigating web applica
 .
 The OWASP Top 10 is an essential tool for identifying and mitigating web application vulnerabilities. Through the TryHackMe room, I acquired hands-on experience with these difficulties, which improved my practical abilities and knowledge. As a newbie, I depended on supplementary resources such as YouTube lessons and publications to help me navigate this learning process. This experience has highlighted the significance of ongoing application security education, as well as the need to be vigilant against evolving threats.
 
+MY room completion BADGE:
+![image](https://github.com/user-attachments/assets/596e5387-c501-4dc4-86cf-4cff3686bd22)
+
+
 
